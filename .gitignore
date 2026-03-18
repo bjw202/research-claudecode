@@ -1,0 +1,18 @@
+# API keys
+.env
+
+# Research outputs (user-specific)
+docs/
+
+# Claude Code local settings
+.claude/settings.local.json
+.claude/memory/
+
+# Legacy
+previous.mcp.json
+
+# OS
+.DS_Store
+
+# Node
+node_modules/
